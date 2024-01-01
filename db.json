@@ -21,25 +21,25 @@
     {
       "id": 4,
       "name": "Buttercup",
-      "isGoodDog": false,
+      "isGoodDog": true,
       "image": "https://curriculum-content.s3.amazonaws.com/js/woof-woof/dog_4.jpg"
     },
     {
       "id": 5,
-      "name": "Lucipher",
-      "isGoodDog": false,
-      "image": "https://curriculum-content.s3.amazonaws.com/js/woof-woof/dog_5.jpg"
+      "name": "Snooper Pooper",
+      "isGoodDog": true,
+      "image": "https://dogtime.com/wp-content/uploads/sites/12/2023/09/GettyImages-164855910-1-e1694532950609.jpg?w=1024"
     },
     {
       "id": 6,
-      "name": "Snooper Pooper",
+      "name": {},
       "isGoodDog": false,
-      "image": "https://curriculum-content.s3.amazonaws.com/js/woof-woof/dog_6.jpg"
+      "image": {}
     },
     {
       "id": 7,
       "name": "Puddles",
-      "isGoodDog": true,
+      "isGoodDog": false,
       "image": "https://curriculum-content.s3.amazonaws.com/js/woof-woof/dog_7.jpg"
     },
     {
